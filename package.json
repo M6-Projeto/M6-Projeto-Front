@@ -1,7 +1,9 @@
 {
-  "name": "m6-projeto-2",
-  "version": "0.1.0",
-  "private": true,
+  "name": "m6-projeto-front",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  
   "dependencies": {
     "@craco/craco": "^6.4.5",
     "cra-template-typescript": "1.2.0",
